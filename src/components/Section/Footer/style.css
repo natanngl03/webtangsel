@@ -1,0 +1,32 @@
+/*** Footer Start ***/
+.footer {
+   background: var(--bs-dark);
+}
+
+.footer .footer-item span,
+.footer .footer-item a {
+   line-height: 35px;
+   color: var(--bs-body);
+   text-decoration: none;
+}
+
+.footer .footer-item .footer-btn a,
+.footer .footer-item .footer-btn a i {
+   transition: 0.5s;
+}
+
+.footer .footer-item .footer-btn a:hover {
+   background: var(--bs-white);
+}
+
+.footer .footer-item .footer-btn a:hover i {
+   color: var(--bs-primary) !important;
+}
+/*** Footer End ***/
+
+/*** copyright Start ***/
+.copyright {
+   border-top: 1px solid rgba(255, 255, 255, 0.08);
+   background: var(--bs-dark);
+}
+/*** copyright end ***/

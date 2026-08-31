@@ -1,0 +1,98 @@
+{
+  "_Layout-BI0sJhRO.js": {
+    "file": "assets/Layout-BI0sJhRO.js",
+    "name": "Layout",
+    "imports": [
+      "_rolldown-runtime-CbXtAM7H.js",
+      "index.html"
+    ],
+    "dynamicImports": [
+      "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    ],
+    "css": [
+      "assets/Layout-CbxxgWay.css"
+    ],
+    "assets": [
+      "assets/logo4-2K1KaFCs.png"
+    ]
+  },
+  "_Layout-CbxxgWay.css": {
+    "file": "assets/Layout-CbxxgWay.css",
+    "src": "_Layout-CbxxgWay.css"
+  },
+  "_rolldown-runtime-CbXtAM7H.js": {
+    "file": "assets/rolldown-runtime-CbXtAM7H.js",
+    "name": "rolldown-runtime"
+  },
+  "index.html": {
+    "file": "assets/app-PThtN0tK.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-CbXtAM7H.js"
+    ],
+    "dynamicImports": [
+      "node_modules/react-dom/client.js",
+      "src/pages/Home.tsx",
+      "src/pages/NotFound.tsx"
+    ],
+    "css": [
+      "assets/app-jQuiTFu2.css"
+    ]
+  },
+  "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-C7MefoIQ.js",
+    "name": "bootstrap.bundle.min",
+    "src": "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CbXtAM7H.js"
+    ]
+  },
+  "node_modules/react-dom/client.js": {
+    "file": "assets/client-EPlJd7cs.js",
+    "name": "client",
+    "src": "node_modules/react-dom/client.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CbXtAM7H.js",
+      "index.html"
+    ]
+  },
+  "src/assets/img/forwho.jpg": {
+    "file": "assets/forwho-DDuRaZ9h.jpg",
+    "src": "src/assets/img/forwho.jpg"
+  },
+  "src/assets/img/logo4.png": {
+    "file": "assets/logo4-2K1KaFCs.png",
+    "src": "src/assets/img/logo4.png"
+  },
+  "src/pages/Home.tsx": {
+    "file": "assets/Home-B4K8JBts.js",
+    "name": "Home",
+    "src": "src/pages/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Layout-BI0sJhRO.js"
+    ],
+    "css": [
+      "assets/Home-C7s_LECv.css"
+    ],
+    "assets": [
+      "assets/forwho-DDuRaZ9h.jpg"
+    ]
+  },
+  "src/pages/NotFound.tsx": {
+    "file": "assets/NotFound-k2YBLuBj.js",
+    "name": "NotFound",
+    "src": "src/pages/NotFound.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CbXtAM7H.js",
+      "index.html",
+      "_Layout-BI0sJhRO.js"
+    ]
+  }
+}

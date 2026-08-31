@@ -1,0 +1,50 @@
+[
+   {
+      "plan": "Paket UMKM",
+      "price": "Rp 400 Ribu",
+      "isPopular": false,
+      "items": [
+         { "icon": "check", "label": "Domain WEB.ID, MY.ID" },
+         { "icon": "check", "label": "1 Halaman Panjang (One Page Scroll)" },
+         { "icon": "check", "label": "Tombol Chat Whatsapp" },
+         { "icon": "check", "label": "Peta Lokasi (Google Maps)" },
+         { "icon": "check", "label": "Terdaftar Di Google Search" },
+         { "icon": "check", "label": "SEO Teroptimasi" },
+         { "icon": "check", "label": "Performa Web Mulus" },
+         { "icon": "check", "label": "Mobile Friendly" },
+         { "icon": "close", "label": "Email Bisnis" }
+      ]
+   },
+   {
+      "plan": "Paket Regular",
+      "price": "Rp 500 Ribu",
+      "isPopular": true,
+      "items": [
+         { "icon": "check", "label": "Domain .COM" },
+         { "icon": "check", "label": "Multi Halaman" },
+         { "icon": "check", "label": "Tombol Chat Whatsapp" },
+         { "icon": "check", "label": "Peta Lokasi (Google Maps)" },
+         { "icon": "check", "label": "Terdaftar Di Google Search" },
+         { "icon": "check", "label": "SEO Teroptimasi" },
+         { "icon": "check", "label": "Performa Web Mulus" },
+         { "icon": "check", "label": "Mobile Friendly" },
+         { "icon": "close", "label": "Email Bisnis" }
+      ]
+   },
+   {
+      "plan": "Paket Bisnis",
+      "price": "Rp 650 Ribu",
+      "isPopular": false,
+      "items": [
+         { "icon": "check", "label": "Domain .COM" },
+         { "icon": "check", "label": "Multi Halaman" },
+         { "icon": "check", "label": "Tombol Chat Whatsapp" },
+         { "icon": "check", "label": "Peta Lokasi (Google Maps)" },
+         { "icon": "check", "label": "Terdaftar Di Google Search" },
+         { "icon": "check", "label": "SEO Teroptimasi" },
+         { "icon": "check", "label": "Performa Web Mulus" },
+         { "icon": "check", "label": "Mobile Friendly" },
+         { "icon": "check", "label": "Email Bisnis" }
+      ]
+   }
+]

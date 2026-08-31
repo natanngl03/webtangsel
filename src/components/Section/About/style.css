@@ -1,0 +1,23 @@
+/*** Features Start ***/
+.feature {
+   background: var(--bs-light);
+}
+
+.feature .feature-item {
+   display: flex;
+   border-radius: 10px;
+   align-items: center;
+}
+
+.feature .feature-item .feature-icon span {
+   width: 70px;
+   height: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: var(--bs-light);
+   background: var(--bs-primary);
+   border-radius: 10px;
+}
+
+/*** Features End ***/

@@ -1,0 +1,26 @@
+[
+   { "question": "Bagaimana cara melakukan pemesanan?", "answer": "Silahkan hubungi kami melalui nomor whatsapp yang tertera" },
+   { "question": "Apakah ada biaya tambahan?", "answer": "Harga yang tertera adalah harga final tanpa ada biaya tambahan lainnya" },
+   { "question": "Berapa lama proses pengerjaan website saya?", "answer": "Pengerjaan website anda maksimal 3 hari kerja, terhitung dari anda telah setuju dengan design website yang kita tawarkan" },
+   {
+      "question": "Bagaimana cara proses pembayaran?",
+      "answer": "Anda dapat melakukan pembayaran DP melalui Bank Transfer, setelah itu kami mulai mengerjakan desain awal. Jika desain awal yang kami buat telah anda setujui, maka silahkan lakukan pelunasan untuk penyelesaian website anda."
+   },
+   {
+      "question": "Bagaimana cara saya update konten?",
+      "answer": "Untuk update konten silahkan hubungi kontak kami, dan screenshot bagian mana yang akan diupdate. Tim kami akan membantu anda untuk melakukan update konten secara gratis."
+   },
+   {
+      "question": "Apakah bisa saya update konten sendiri?",
+      "answer": "Karena website anda ada dalam database sistem kami, maka update konten tidak bisa dilakukan sendiri dan akan dibantu oleh tim kami."
+   },
+   {
+      "question": "Apakah bisa melakukan pembatalan?",
+      "answer": "Saat anda baru membayar DP maka dapat dibatalkan, tetapi DP anda akan hangus karena kami telah mengerjakan desain awal website anda. Namun saat anda telah membayar pelunasan maka pembatalan tidak dapat dilakukan, karena kami telah mempersiapkan domain dan alokasi server untuk website anda."
+   },
+   { "question": "Dimana lokasi webtangsel.com", "answer": "Kami berlokasi di Perumahan Griya Asri Blok B3 No. 10, Jelupang, Tangerang Selatan, dan melayani pembuatan website di seluruh Indonesia" },
+   {
+      "question": "Kenapa harga di webtangsel.com bisa murah?",
+      "answer": "Pada dasarnya banyak website usaha hanya perlu menampilkan profile usaha anda tanpa perlu banyak fitur yang tidak terpakai. Oleh karena itu kami mengembangkan website anda dengan fitur yang memang dibutuhkan saja dan website anda tetap optimal dan menarik, sehingga harga yang kami tawarkan dapat bersaing dan terjangkau untuk pelaku bisnis UMKM, kecil maupun menengah."
+   }
+]
