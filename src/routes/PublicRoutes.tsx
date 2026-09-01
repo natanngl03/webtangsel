@@ -15,7 +15,7 @@ const PublicRoutes: RouteObject[] = [
             Component: Home,
          },
          {
-            path: "*",
+            path: "not-found",
             Component: NotFound,
          },
       ],
