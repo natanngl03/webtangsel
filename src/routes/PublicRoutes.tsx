@@ -1,5 +1,5 @@
 import { lazy } from "react";
-import { Navigate, type RouteObject } from "react-router-dom";
+import { type RouteObject } from "react-router-dom";
 import App from "../App";
 
 const Home = lazy(() => import("../pages/Home"));
@@ -15,12 +15,8 @@ const PublicRoutes: RouteObject[] = [
             Component: Home,
          },
          {
-            path: "not-found",
-            Component: NotFound,
-         },
-         {
             path: "*",
-            element: <Navigate to="/not-found" replace={true} />,
+            Component: NotFound,
          },
       ],
    },
