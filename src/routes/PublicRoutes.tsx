@@ -18,6 +18,10 @@ const PublicRoutes: RouteObject[] = [
             path: "not-found",
             Component: NotFound,
          },
+         {
+            path: "*",
+            Component: NotFound,
+         },
       ],
    },
 ];
