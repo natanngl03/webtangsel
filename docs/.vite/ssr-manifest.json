@@ -14,25 +14,25 @@
   "node_modules/prop-types/index.js": [],
   "node_modules/prop-types/lib/ReactPropTypesSecret.js": [],
   "node_modules/react-dom/cjs/react-dom-client.production.js": [
-    "/assets/client-D_szqC3S.js"
+    "/assets/client-D27LHB3e.js"
   ],
   "node_modules/react-dom/cjs/react-dom.production.js": [],
   "node_modules/react-dom/client.js": [
-    "/assets/client-D_szqC3S.js"
+    "/assets/client-D27LHB3e.js"
   ],
   "node_modules/react-dom/index.js": [],
   "node_modules/react-fast-compare/index.js": [],
   "node_modules/react-icons/fa/index.mjs": [
-    "/assets/NotFound-DX-HXuj6.js"
+    "/assets/NotFound-BTyE0bVI.js"
   ],
   "node_modules/react-icons/io/index.mjs": [
-    "/assets/NotFound-DX-HXuj6.js"
+    "/assets/NotFound-BTyE0bVI.js"
   ],
   "node_modules/react-icons/lib/iconBase.mjs": [
-    "/assets/NotFound-DX-HXuj6.js"
+    "/assets/NotFound-BTyE0bVI.js"
   ],
   "node_modules/react-icons/lib/iconContext.mjs": [
-    "/assets/NotFound-DX-HXuj6.js"
+    "/assets/NotFound-BTyE0bVI.js"
   ],
   "node_modules/react-router-dom/dist/index.js": [],
   "node_modules/react-router/dist/index.js": [],
@@ -43,10 +43,10 @@
   "node_modules/react/index.js": [],
   "node_modules/react/jsx-runtime.js": [],
   "node_modules/scheduler/cjs/scheduler.production.js": [
-    "/assets/client-D_szqC3S.js"
+    "/assets/client-D27LHB3e.js"
   ],
   "node_modules/scheduler/index.js": [
-    "/assets/client-D_szqC3S.js"
+    "/assets/client-D27LHB3e.js"
   ],
   "node_modules/shallowequal/index.js": [],
   "node_modules/vite-react-ssg/dist/index.mjs": [],
@@ -55,115 +55,115 @@
   "node_modules/vite-react-ssg/node_modules/react-helmet-async/lib/index.module.js": [],
   "src/App.tsx": [],
   "src/assets/img/forwho.jpg": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/assets/img/logo4.png": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/assets/scss/bootstrap.min.css": [],
   "src/components/Layout.tsx": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/Section/About/index.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/About/style.css": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Faq/data.json": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Faq/index.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Faq/style.css": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Footer/index.tsx": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/Section/Footer/style.css": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/Section/Hero/Hero.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Info/index.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Navbar/Navbar.tsx": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/Section/Pricing/data.json": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/Section/Pricing/index.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/element/Loader.tsx": [],
   "src/components/element/PricingCard.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/components/element/WaButton/index.tsx": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/element/WaButton/style.css": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ],
   "src/components/svg/WebsiteSVG.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/main.css": [],
   "src/main.tsx": [],
   "src/pages/Home.tsx": [
-    "/assets/Home-1vKSX8H4.js",
+    "/assets/Home-CGIBpz-E.js",
     "/assets/Home-C7s_LECv.css",
     "/assets/forwho-DDuRaZ9h.jpg"
   ],
   "src/pages/NotFound.tsx": [
-    "/assets/NotFound-DX-HXuj6.js"
+    "/assets/NotFound-BTyE0bVI.js"
   ],
   "src/routes/PublicRoutes.tsx": [],
   "src/utils/helper.ts": [
-    "/assets/Layout-D52e63z3.js",
+    "/assets/Layout-Tq9u9qiy.js",
     "/assets/Layout-CbxxgWay.css",
     "/assets/logo4-2K1KaFCs.png"
   ]

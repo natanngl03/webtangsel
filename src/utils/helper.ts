@@ -20,7 +20,7 @@ export const removeSkeleton = () => {
 //    window.open(waLink, "_blank", "noopener,noreferrer");
 // };
 
-const waPhone = `https://wa.me/6285157715228?text=hallo%20webtangsel,`;
+const waPhone = `https://wa.me/6285787535301?text=hallo%20webtangsel,`;
 
 export const waConsult = () => {
    const consultMsg = `%20saya%20ingin%20bertanya%20mengenai%20pembuatan%20website`;

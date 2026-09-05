@@ -39,7 +39,7 @@ export default function Footer() {
                         </span>
 
                         <a href={waConsult()} target="_blank" rel="noopener noreferrer">
-                           <i className="fab fa-whatsapp me-2"></i> {`0851 5771 5228 (WA Only)`}
+                           <i className="fab fa-whatsapp me-2"></i> {`0857 8753 5301 (WA Only)`}
                         </a>
                      </div>
                   </div>
